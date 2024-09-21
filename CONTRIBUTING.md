@@ -61,4 +61,4 @@ We welcome contributions from the community! To ensure a smooth process, please 
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the GPL-3.0 License.
+By contributing, you agree that your contributions will be licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
