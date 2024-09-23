@@ -1,6 +1,6 @@
-# AquaDexLib
+# Aggreg8DexLib
 
-*AquaDexLib* is an open-source library utilized by the **Aqua Build** backend to integrate with decentralized exchanges (DEXs). This library allows external DEX developers to connect their DEXs with Aqua Build by submitting pull requests to this repository.
+*Aggreg8DexLib* is an open-source library utilized by the **Aggreg8** backend to integrate with decentralized exchanges (DEXs). This library allows external DEX developers to connect their DEXs with Aggreg8 by submitting pull requests to this repository.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@
 
 ## Benefits of Integration
 
-- **Expand Your Reach**: Gain access to the wide user base of Aqua Build.
+- **Expand Your Reach**: Gain access to the wide user base of Aggreg8.
 - **Collaborative Development**: Join a community of DEX developers and contribute to the ecosystem.
 - **Enhance Decentralized Trading**: Work together to improve the experience for all users.
 
@@ -20,7 +20,7 @@ Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed instruc
 
 ## Feedback
 
-If you have questions or suggestions, please [open an issue](https://github.com/aquabuild/aqua-dex-lib/issues) or contact us at [support@aquabuild.com](mailto:support@aquabuild.com).
+If you have questions or suggestions, please [open an issue](https://github.com/aquabuild/aggreg8-dex-lib/issues) or contact us at [support@aquabuild.com](mailto:support@aqua.build).
 
 ## License
 
