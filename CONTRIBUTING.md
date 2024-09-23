@@ -1,4 +1,4 @@
-# Contributing to AquaDexLib
+# Contributing to Aggreg8DexLib
 
 We welcome contributions from the community! To ensure a smooth process, please follow these guidelines.
 
@@ -11,8 +11,8 @@ We welcome contributions from the community! To ensure a smooth process, please 
 2. **Clone Your Fork**
 
    ```bash
-   git clone https://github.com/your-username/aqua-dex-lib.git
-   cd aqua-dex-lib
+   git clone https://github.com/your-username/aggreg8-dex-lib.git
+   cd aggreg8-dex-lib
 
 3. **Create a New Branch**
 
@@ -40,7 +40,7 @@ We welcome contributions from the community! To ensure a smooth process, please 
 
 7. **Submit a Pull Request**
 
-   Go to your fork on GitHub and open a pull request to the `main` branch of `aqua-dex-lib`.
+   Go to your fork on GitHub and open a pull request to the `main` branch of `aggreg8-dex-lib`.
 
 ## Coding Standards
 
@@ -56,7 +56,7 @@ We welcome contributions from the community! To ensure a smooth process, please 
 
 ## Communication
 
-   - Issues: For significant changes or feature requests, please [open an issue](https://github.com/aquabuild/aqua-dex-lib/issues) first to discuss your ideas.
+   - Issues: For significant changes or feature requests, please [open an issue](https://github.com/aquabuild/aggreg8-dex-lib/issues) first to discuss your ideas.
    - Contact: Feel free to reach out via issues for any questions.
 
 ## License
